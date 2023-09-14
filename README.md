@@ -1,2 +1,2 @@
-# Portfolio
-HTML , CSS , JavaScript
+# portfolio1
+HTML,CSS,JAVA SCRIPT 
